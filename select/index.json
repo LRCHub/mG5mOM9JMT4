@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Waiting For The Sun",
+  "base_artist": "Bars and Melody",
+  "createdAt": "2026-01-12T07:54:28.334453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waiting for the Sun",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/01_Waiting_for_the_Sun_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waiting For The Sun",
+      "artist": "Honeysuckle",
+      "has_synced": false,
+      "path": "select/02_Waiting_For_The_Sun_Honeysuckle.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waiting For The Sun",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/03_Waiting_For_The_Sun_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Waiting For The Sun",
+      "artist": "Powderfinger",
+      "has_synced": true,
+      "path": "select/04_Waiting_For_The_Sun_Powderfinger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Waiting for the Sun",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/05_Waiting_for_the_Sun_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waiting for the Sun",
+      "artist": "Jordan Reyne",
+      "has_synced": false,
+      "path": "select/06_Waiting_for_the_Sun_Jordan_Reyne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waiting for the Sun",
+      "artist": "Sid Sriram",
+      "has_synced": true,
+      "path": "select/07_Waiting_for_the_Sun_Sid_Sriram.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Waiting For The Sun",
+      "artist": "Doors",
+      "has_synced": true,
+      "path": "select/08_Waiting_For_The_Sun_Doors.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(I'm) Waiting For The Sun",
+      "artist": "宇宙ネコ子",
+      "has_synced": false,
+      "path": "select/09_(I'm)_Waiting_For_The_Sun_宇宙ネコ子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doors - Waiting for the sun",
+      "artist": "artist",
+      "has_synced": true,
+      "path": "select/10_Doors_-_Waiting_for_the_sun_artist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Waiting for the Sun",
+      "artist": "Gosling",
+      "has_synced": false,
+      "path": "select/11_Waiting_for_the_Sun_Gosling.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Waiting for the Sun",
+      "artist": "Doors",
+      "has_synced": true,
+      "path": "select/12_Waiting_for_the_Sun_Doors.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waiting For The Sun",
+      "artist": "Floater",
+      "has_synced": false,
+      "path": "select/13_Waiting_For_The_Sun_Floater.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Waiting For The Sun",
+      "artist": "Bars and Melody",
+      "has_synced": false,
+      "path": "select/pl_01_Waiting_For_The_Sun_Bars_and_Melody.txt"
+    }
+  ]
+}
